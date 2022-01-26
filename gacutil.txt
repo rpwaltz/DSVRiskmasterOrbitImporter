@@ -1,0 +1,1172 @@
+Microsoft (R) .NET Global Assembly Cache Utility.  Version 4.0.30319.0
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+The Global Assembly Cache contains the following assemblies:
+  CustomMarshalers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  ISymWrapper, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  Microsoft.Ink, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Interop.Security.AzRoles, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  MSBuild, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  srmlib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  System.Data.OracleClient, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  System.Printing, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  CustomMarshalers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  ISymWrapper, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  Microsoft.Ink, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Interop.Security.AzRoles, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Office.Access.BusinessDataCatalog, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=x86
+  Microsoft.Office.BusinessData, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=x86
+  Microsoft.SharePoint.BusinessData.Administration.Client, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=x86
+  Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  MSBuild, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  srmlib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  System.Data.OracleClient, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  System.Printing, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  ComSvcConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  cscompmgd, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  dfsvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  IEExecRemote, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  IEHost, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  IIEHost, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Framework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Framework, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Tasks.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.BusinessData, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.ConfigurationManager.AssetProvider, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ConfigurationManager.DefaultAppsProvider, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Exchange.WebServices, Version=15.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Ink.Resources, Version=6.1.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.JScript, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.ManagementConsole, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ManagementConsole.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.Diagnostics, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.Runtime.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.RuntimeUi, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.RuntimeUi.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.SyncServices, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.SyncServices.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.Tools, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.Tools.AutoGen, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessApplications.Tools.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.BusinessData.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Access, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Access.Dao, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Access.Dao, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Graph, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.OneNote, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.OneNote, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.OutlookViewCtl, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.PowerPoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Publisher, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.SmartTag, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Common.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Excel.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Outlook.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Word.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Diagnostics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Diagnostics.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Management.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Utility.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ConsoleHost.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Security.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.ReportViewer.DataVisualization, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.SharePoint.BusinessData.Administration.Client.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.Synchronization.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.Synchronization.Data.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.Synchronization.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.Transactions.Bridge, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Vbe.Interop, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.Vbe.Interop.Forms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualBasic.Compatibility, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualBasic.Compatibility.Data, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualBasic.Vsa, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualC, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualC.STLCLR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.PerformanceTools.Detours, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Contract.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.HostAdapter.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Hosting.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Runtime.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.ServerDocument.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.AppInfoDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.ContainerControl.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Contract.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Excel.HostAdapter.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.HostAdapter.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Outlook.HostAdapter.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Runtime.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Word.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Word.HostAdapter.v10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Vsa, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Vsa.Vb.CodeDOMProcessor, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Web, Version=7.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration, Version=7.9.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=cs, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=de, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=fr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=it, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=ja, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=ko, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=pl, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=pt-BR, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=ru, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=tr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=zh-HANS, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Administration.resources, Version=7.9.0.0, Culture=zh-HANT, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment, Version=7.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.UI.Server, Version=7.1.2.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Management.Delegation.Server, Version=7.1.2.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Management.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft_VsaVb, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  MMCEx, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  MMCEx.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  MMCFxCommon, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  MMCFxCommon.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.Access, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.Graph, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.OutlookViewCtl, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.PowerPoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.Publisher, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.SmartTag, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.Microsoft.Vbe.Interop, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.11.0.office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Access, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Access.Dao, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Access.Dao, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Graph, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.OutlookViewCtl, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.PowerPoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Publisher, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.SmartTag, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.Microsoft.Vbe.Interop, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.12.0.office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.Access.Dao, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.Graph, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.OneNote, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.OutlookViewCtl, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.PowerPoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.Publisher, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.SmartTag, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.Microsoft.Vbe.Interop, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  Policy.14.0.office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  policy.3.0.System.Web.Mvc, Version=3.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  policy.3.5.System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  policy.3.5.System.Data.SqlServerCe.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  PresentationBuildTasks, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationCFFRasterizer, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFontCache, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Aero, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Classic, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Luna, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Royale, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationUI, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  ReachFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Sentinel.v3.5Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  SMSvcHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  sysglobl, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.AddIn.Contract, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Configuration.Install, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  System.Data.SqlServerCe.Entity, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.DirectoryServices.AccountManagement, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.DirectoryServices.Protocols, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Drawing.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IdentityModel.Selectors, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IO.Log, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Management, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Management.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Management.Automation.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Messaging, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Remoting, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Runtime.Serialization.Formatters.Soap, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ServiceModel.Install, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ServiceModel.WasHosting, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceProcess, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Speech, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Abstractions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.DynamicData, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.DynamicData.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Mobile, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Web.RegularExpressions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Web.Routing, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Windows.Presentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Workflow.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Workflow.ComponentModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.WorkflowServices, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  WindowsBase, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  WsatConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Accessibility, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  ADODB, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  CRVsPackageLib, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Design, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.Engine.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.CrystalReports.TemplateEngine, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.Audit, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.CachePageServer, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.Cms, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.EventServer, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.FileServer, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.JobServer, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.ReportAppServer, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Admin.Wcs, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Auth.secEnterprise, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Auth.secLDAP, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Auth.secWinAD, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Auth.secWindowsNT, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Calendar, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Connection, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Event, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Excel, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.FavoritesFolder, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Folder, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Hyperlink, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.LicenseKey, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.ObjectPackage, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Pdf, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Powerpoint, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Program, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Report, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Rtf, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Server, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.ServerGroup, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Shortcut, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Txt, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.User, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.UserGroup, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Desktop.Word, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Dest.DiskUnmanaged, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Dest.Ftp, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Dest.Smtp, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Framework, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.InfoStore, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Integration, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.PluginManager, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Strings, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Utils.UtcConverter, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Viewing.ReportSource, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Enterprise.Web, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.KeyCode, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.ClientDoc, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.CommLayer, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.CommonControls, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.CommonObjectModel, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.Controllers, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.CubeDefModel, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.DataDefModel, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.DataSetConversion, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.ObjectFactory, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.ReportDefModel, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportAppServer.XmlSerialize, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.ReportSource.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Shared.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.Mobile.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.VSDesigner.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.Mobile.MobileViewerSys.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Web.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms, Version=10.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=de, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=en, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=es, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=fr, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=it, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=ja, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=ko, PublicKeyToken=692fbea5521e1304
+  CrystalDecisions.Windows.Forms.resources, Version=10.0.3300.0, Culture=zh-chs, PublicKeyToken=692fbea5521e1304
+  cscompmgd, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  CustomMarshalers, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Extensibility, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  IEExecRemote, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  IEHost, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  IIEHost, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  ISymWrapper, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.JScript, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.StdFormat, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.VisualBasic, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.VisualBasic.Vsa, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.VisualC, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.Vsa, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.Vsa.Vb.CodeDOMProcessor, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft_VsaVb, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mscomctl, Version=10.0.4504.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mscorcfg, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  MSDATASRC, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Regcode, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  System.Configuration.Install, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Data, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  System.Data.OracleClient, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  System.Design, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.DirectoryServices, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Drawing.Design, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.EnterpriseServices, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Management, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Messaging, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Runtime.Remoting, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  System.Runtime.Serialization.Formatters.Soap, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Security, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.ServiceProcess, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Web, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Web.Mobile, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Web.RegularExpressions, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Web.Services, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  System.Xml, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  aagwrapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  AuditPolicyGPManagedStubs.Interop, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  CustomMarshalers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  ISymWrapper, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  Microsoft.ActiveDirectory.Management, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.ActiveDirectory.Management.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.AppV.AppvClientComConsumer, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.AppV.AppvClientComConsumer.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.CertificateServices.PKIClient.Cmdlets, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.ConfigCI.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.ConfigCI.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.GroupPolicy.AdmTmplEditor, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.GroupPolicy.AdmTmplEditor.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.GroupPolicy.Interop, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.KeyDistributionService.Cmdlets, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Management.Infrastructure.Native, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.RemoteDesktopServices.Management.Activities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.RemoteDesktopServices.Management.Activities.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.SecureBoot.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.SecureBoot.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Security.ApplicationId.PolicyManagement.PolicyEngineApi.Interop, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Tpm.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Tpm.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Transactions.Bridge.Dtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  Microsoft.VisualStudio.Tools.Applications, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  Microsoft.Windows.Diagnosis.SDEngine, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Windows.ServerManager.RDSPlugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.Windows.ServerManager.RDSPlugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Microsoft.WindowsAuthenticationProtocols.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  MSBuild, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  napcrypt, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Policy.1.0.Microsoft.Interop.Security.AzRoles, Version=10.0.19041.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  Policy.1.2.Microsoft.Interop.Security.AzRoles, Version=10.0.19041.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  System.Printing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
+  System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  AuditPolicyGPManagedStubs.Interop, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  CustomMarshalers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  ISymWrapper, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  Microsoft.ActiveDirectory.Management, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.ActiveDirectory.Management.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.AppV.AppvClientComConsumer, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.AppV.AppvClientComConsumer.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.CertificateServices.PKIClient.Cmdlets, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.ConfigCI.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.ConfigCI.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.GroupPolicy.AdmTmplEditor, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.GroupPolicy.AdmTmplEditor.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.GroupPolicy.Interop, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.KeyDistributionService.Cmdlets, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Management.Infrastructure.Native, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.SecureBoot.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.SecureBoot.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Security.ApplicationId.PolicyManagement.PolicyEngineApi.Interop, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Tpm.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Tpm.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Transactions.Bridge.Dtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  Microsoft.VisualStudio.Tools.Applications, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  Microsoft.Windows.Diagnosis.SDEngine, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.Windows.ServerManager.RDSPlugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Microsoft.WindowsAuthenticationProtocols.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  MSBuild, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  napcrypt, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Policy.1.0.Microsoft.Interop.Security.AzRoles, Version=10.0.19041.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  Policy.1.2.Microsoft.Interop.Security.AzRoles, Version=10.0.19041.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  System.Printing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+  System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  aagmmc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  aagmmc.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  ComSvcConfig, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  dfsvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  EventViewer, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  EventViewer.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  IpamApi, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  IpamApi.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ActiveDirectory.TRLParser, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ActiveDirectory.TRLParser.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ADRoles.Aspects, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ADRoles.Instrumentation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ADRoles.ServerManager.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ADRoles.ServerManager.Common.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ADRoles.UI.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ADRoles.UI.Common.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ApplicationId.Framework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ApplicationId.Framework.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ApplicationId.RuleWizard, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ApplicationId.RuleWizard.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.AppV.AppVClientWmi, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.AppV.AppVClientWmi.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.BackgroundIntelligentTransfer.Management, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.BackgroundIntelligentTransfer.Management.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.BestPractices, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.BestPractices.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Conversion.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Engine, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.Utilities.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.CertificateServices.Deployment.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.CertificateServices.Deployment.Common.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.CertificateServices.PKIClient.Cmdlets.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.CertificateServices.ServerManager.DeploymentPlugIn, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.CertificateServices.ServerManager.DeploymentPlugIn.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.ConfigurationManager.WinRTProvider, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.DirectoryServices.Deployment.Types, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.DirectoryServices.Deployment.Types.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.DirectoryServices.Instrumentation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.DirectoryServices.ServerManager, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.DirectoryServices.ServerManager.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Dtc.PowerShell, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Dtc.PowerShell.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.FederationServices.Instrumentation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.FederationServices.ServerManager, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.FederationServices.ServerManager.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.GroupPolicy.Reporting, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.GroupPolicy.Reporting.Resources, Version=2.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.IdentityServer.Deployment.Core, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.IdentityServer.Deployment.Core.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Internal.Tasks.Dataflow, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  Microsoft.InternationalSettings.Commands, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  microsoft.isam.esent.interop, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  microsoft.isam.esent.interop.wsa, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.iSCSI.Target.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.iSCSI.Target.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.JScript, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.KeyDistributionService.Cmdlets.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.LightweightDirectoryServices.ServerManager, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.LightweightDirectoryServices.ServerManager.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Management.Infrastructure.CimCmdlets, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Management.Infrastructure.CimCmdlets.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Management.Infrastructure.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Management.UI, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Management.UI.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Office.Tools, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Common.Implementation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Excel.Implementation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Outlook, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Outlook.Implementation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.v4.0.Framework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Word, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Office.Tools.Word.Implementation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.PowerShell.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Activities.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Cmdletization.OData, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Cmdletization.OData.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Diagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Diagnostics.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Management, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Management.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Utility, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Commands.Utility.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ConsoleHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ConsoleHost.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Core.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Diagnostics.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Editor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Editor.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.GPowerShell, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.GPowerShell.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.GraphicalHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.GraphicalHost.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ISECommon, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ISECommon.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Management.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ScheduledJob, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.ScheduledJob.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Security, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Security.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Security.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Utility.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Utility.Activities.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Workflow.ServiceCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.PowerShell.Workflow.ServiceCore.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.RightsManagementServices.ServerManager.DeploymentPlugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.RightsManagementServices.ServerManager.DeploymentPlugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.Cmdlets, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.Cmdlets.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.PolicyManager, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.PolicyManager.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.PolicyModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.PolicyModel.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.PolicyManagement.XmlHelper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.SmartDevice.Connectivity, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.SmartDevice.Connectivity.Interface, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.SmartDevice.ConnectivityWrapper.11, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.SmartDevice.ConnectivityWrapper.12, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.SmartDevice.MultiTargeting.Connectivity, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=de, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=es, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=fr, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=it, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=ja, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=ko, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=pt, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=ru, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=zh-Hans, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.SqlServer.Types.resources, Version=15.0.0.0, Culture=zh-Hant, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
+  Microsoft.Tpm, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Tpm.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Transactions.Bridge, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Uev.ManagedAgentWmi, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Uev.ManagedAgentWmi.WinRT, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.AdminDataAccessProxy, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.Administration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.BaseApi, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.ClientServicing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.CoreCommon, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.DBlayer, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.SMPlugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.SMPlugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.StringResources, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.StringResources.Resources, Version=4.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.UpdateRegulation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.UpdateServices.Utils, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualBasic.Compatibility, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualBasic.Compatibility.Data, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualC.STLCLR, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.DeviceConnectivity.Interop.11.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=it, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=ja, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=ko, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=zh-HANS, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Common.resources, Version=15.0.0.0, Culture=zh-HANT, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Hosting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=it, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=ja, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=ko, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=zh-HANS, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.resources, Version=15.0.0.0, Culture=zh-HANT, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.ServerDocument, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=it, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=ja, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=ko, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=zh-HANS, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.Common.resources, Version=15.0.0.0, Culture=zh-HANT, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=it, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=ja, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=ko, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=zh-HANS, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.ProjectRetargetService.resources, Version=15.0.0.0, Culture=zh-HANT, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=it, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=ja, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=ko, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=zh-HANS, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Applications.Utilities.VstaTemplate.resources, Version=15.0.0.0, Culture=zh-HANT, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.ContainerControl, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Tools.Office.Runtime.Internal, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.VisualStudio.Web.PageInspector.Loader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Web.Delegation, Version=7.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=cs, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=de, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=fr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=it, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=ja, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=ko, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=pl, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=pt-BR, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=ru, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=tr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=zh-HANS, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Delegation.resources, Version=7.1.0.0, Culture=zh-HANT, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=cs, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=de, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=fr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=it, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=ja, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=ko, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=pl, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=pt-BR, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=ru, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=tr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=zh-HANS, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.PowerShell.resources, Version=9.0.0.0, Culture=zh-HANT, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=cs, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=de, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=fr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=it, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=ja, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=ko, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=pl, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=pt-BR, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=ru, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=tr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=zh-HANS, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.resources, Version=9.0.0.0, Culture=zh-HANT, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Deployment.Tracing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics, Version=7.9.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=cs, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=de, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=fr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=it, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=ja, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=ko, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=pl, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=pt-BR, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=ru, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=tr, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=zh-HANS, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Diagnostics.resources, Version=7.9.0.0, Culture=zh-HANT, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Web.Tasks, Version=7.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Win32.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Windows.ApplicationServer.Applications, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Appx.PackageManager.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Appx.PackageManager.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DeploymentServices.ServerManager.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DeploymentServices.ServerManager.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DeveloperLicense.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DeveloperLicense.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DeviceHealthAttestation.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DeviceHealthAttestation.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.GetDiagInput, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.GetDiagInput.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.UpdateDiagReport, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.UpdateDiagReport.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.UpdateDiagRootcause, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.UpdateDiagRootcause.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.WriteDiagProgress, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.WriteDiagProgress.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.WriteDiagTelemetry, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.Commands.WriteDiagTelemetry.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.SDCommon, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.SDHost, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.SDHost.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.TroubleshootingPack, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Diagnosis.TroubleshootingPack.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Dns, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.Dns.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DSC.CoreConfProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.DSC.CoreConfProviders.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.Common.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.Plugin.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.Plugin.UI, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.Plugin.UI.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.FileServer.Management.ServerManagerProxy, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.HostGuardianService.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.HostGuardianService.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Activities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.BitLocker.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.BitLocker.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Common.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Deployment.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.DHCPServer.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.DHCPServer.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.FaxServer.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.FaxServer.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.HyperV.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.HyperV.Plugin.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Ipam.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Ipam.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.MultiPoint.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.MultiPoint.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.NetworkController.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.NetworkController.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.NPASRole.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.NPASRole.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Plugins.Ipam, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.Plugins.Ipam.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.PowerShell, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.PowerShell.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.PrintingServer.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.PrintingServer.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.RemoteAccess.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.RemoteAccess.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.ServerComponentDeploymentWizard, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.ServerComponentDeploymentWizard.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.ServerComponentManager, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.WebServerRole.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.ServerManager.WebServerRole.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.StartLayout.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.StartLayout.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.VolumeActivation.Plugin, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Windows.VolumeActivation.Plugin.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WindowsAuthenticationProtocols.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WindowsSearch.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WindowsSearch.Commands.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Workflow.Compiler, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Management, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Management.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Management.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.WSMan.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  MiguiControls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  MiguiControls.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  napinit, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  napinit.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL
+  Policy.1.0.Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Policy.1.0.Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Policy.1.0.Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Policy.1.0.Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Policy.1.0.System.Management.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Policy.3.0.Microsoft.BackgroundIntelligentTransfer.Management, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Policy.3.1.Microsoft.UpdateServices.Administration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationBuildTasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework-SystemCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  PresentationFramework-SystemData, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  PresentationFramework-SystemDrawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  PresentationFramework-SystemXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  PresentationFramework-SystemXmlLinq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  PresentationFramework.Aero, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Aero2, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.AeroLite, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Classic, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Luna, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationFramework.Royale, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  PresentationUI, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  ReachFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  SecurityAuditPoliciesSnapIn, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  SecurityAuditPoliciesSnapIn.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  SMSvcHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  SrpUxSnapIn, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  SrpUxSnapIn.resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  sysglobl, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Activities.Core.Presentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Activities.DurableInstancing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Activities.Presentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.AddIn, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.AddIn.Contract, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.AppContext, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Collections.Concurrent, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Collections.NonGeneric, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Collections.Specialized, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel.Annotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ComponentModel.Composition.Registration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ComponentModel.EventBasedAsync, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel.TypeConverter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Console, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Entity.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Services.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.Services.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Device, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Diagnostics.Contracts, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.Debug, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.FileVersionInfo, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.Process, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.StackTrace, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.TextWriterTraceListener, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.Tools, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.TraceSource, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.DirectoryServices.AccountManagement, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.DirectoryServices.Protocols, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Drawing.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Dynamic, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Dynamic.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Globalization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Globalization.Calendars, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Globalization.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IdentityModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IdentityModel.Selectors, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IdentityModel.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IO, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IO.Compression.ZipFile, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.IO.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.FileSystem.DriveInfo, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.FileSystem.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.FileSystem.Watcher, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.IsolatedStorage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.Log, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.MemoryMappedFiles, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.Pipes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.IO.UnmanagedMemoryStream, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Linq.Expressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Linq.Parallel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Linq.Queryable, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Management.Automation.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Management.Instrumentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Messaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Http.Rtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Http.WebRequest, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.NameResolution, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.NetworkInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Ping, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Requests, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.Sockets, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.WebHeaderCollection, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.WebSockets, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Net.WebSockets.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Numerics.Vectors, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ObjectModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Reflection, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Reflection.Context, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Reflection.Emit, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Reflection.Emit.ILGeneration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Reflection.Emit.Lightweight, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Reflection.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Reflection.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Resources.Reader, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Resources.ResourceManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Resources.Writer, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.CompilerServices.VisualC, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.DurableInstancing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Runtime.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Handles, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.InteropServices.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Remoting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Runtime.Serialization.Formatters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Serialization.Formatters.Soap, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Serialization.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Serialization.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.Serialization.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Runtime.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Runtime.WindowsRuntime.UI.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Claims, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Cryptography.Algorithms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Cryptography.Csp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Cryptography.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Cryptography.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Cryptography.X509Certificates, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.Principal, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Security.SecureString, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ServiceModel.Activation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceModel.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceModel.Channels, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceModel.Discovery, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceModel.Duplex, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel.Internals, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceModel.NetTcp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel.Routing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceModel.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ServiceModel.ServiceMoniker40, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ServiceModel.WasHosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.ServiceModel.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Speech, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Text.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Text.Encoding.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Text.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading.Overlapped, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading.Tasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading.Tasks.Parallel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading.Thread, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading.ThreadPool, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Threading.Timer, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL
+  System.Web.Abstractions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.DataVisualization.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.DynamicData, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.DynamicData.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Web.Entity.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Extensions.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Mobile, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Web.Mvc, Version=3.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Web.Routing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Windows, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Windows.Controls.Ribbon, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Windows.Forms.DataVisualization.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Windows.Input.Manipulations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Windows.Presentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Workflow.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Workflow.ComponentModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Workflow.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.WorkflowServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Xaml.Hosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Xml.ReaderWriter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Xml.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Xml.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Xml.XmlDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Xml.XmlSerializer, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Xml.XPath, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.Xml.XPath.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  TaskScheduler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  TaskScheduler.Resources, Version=10.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationClientsideProviders, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationProvider, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Windows.Help.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  WindowsFormsIntegration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  WsatConfig, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  XamlBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  XsdBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+
+Number of items = 1166
