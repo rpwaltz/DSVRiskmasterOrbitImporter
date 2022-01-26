@@ -8,7 +8,6 @@ namespace runnerDotNet
     {
     class DB
         {
-        private static String connectionString = "User Id=XXXX;Password=XXXX;Data Source=XXXXXX";
 
         public static dynamic Query(dynamic strSQL)
             {
