@@ -362,5 +362,3 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-/DSVRiskmasterOrbitImporter/ASPRunnerClasses/DB.cs
-/DSVRiskmasterOrbitImporter/App.config
