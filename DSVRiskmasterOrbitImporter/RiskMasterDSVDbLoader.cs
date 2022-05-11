@@ -36,6 +36,7 @@ namespace runnerDotNet
 
             foreach (XVar pdCvsDataRow in pdDSVList)
                 {
+                
                 oracleDBFacade.Insert("xxcok.xxcok_rm_import_pd", pdCvsDataRow);
                 }
 
@@ -45,6 +46,7 @@ namespace runnerDotNet
 
             foreach (XVar pfCvsDataRow in pfDSVList)
                 {
+                DSVRiskmasterOrbitImporter.Program.outputLines.AppendLine(pfCvsDataRow.ToString());
                 oracleDBFacade.Insert("xxcok.xxcok_rm_import_pf", pfCvsDataRow);
                 }
 

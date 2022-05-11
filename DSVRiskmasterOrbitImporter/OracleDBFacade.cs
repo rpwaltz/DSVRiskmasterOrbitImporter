@@ -74,6 +74,7 @@ namespace runnerDotNet
             _pfDSVColumnDataTypesDictionary.Add("ADDED_BY_USER", "STRING");
             _pfDSVColumnDataTypesDictionary.Add("TIN", "STRING");
             _pfDSVColumnDataTypesDictionary.Add("BATCH_ID", "NUMBER");
+            _pfDSVColumnDataTypesDictionary.Add("ORIG_SUPPLIER_NUMBER", "STRING");
 
             _pfPKDSVColumnDataTypesDictionary.Add("IMPORT_ID", "STRING");
             _pfPKDSVColumnDataTypesDictionary.Add("IMPORT_DATE", "DATE");
@@ -231,7 +232,7 @@ namespace runnerDotNet
 
 
             insertStatement.AppendFormat("INSERT INTO {0} ({1}) VALUES ({2})", tableName, columnAndValues[0], columnAndValues[1]);
-
+            DSVRiskmasterOrbitImporter.Program.outputLines.AppendLine(insertStatement.ToString());
             DB.Exec(insertStatement.ToString());
 
             return insertResult;

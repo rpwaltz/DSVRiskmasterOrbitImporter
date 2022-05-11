@@ -11,9 +11,10 @@ namespace DSVRiskmasterOrbitImporter
     {
     class Program
         {
+        public static System.Text.StringBuilder outputLines = new System.Text.StringBuilder();
         static void Main(string[] args)
             {
-            System.Text.StringBuilder outputLines = new System.Text.StringBuilder();
+            
             try
                 {
 

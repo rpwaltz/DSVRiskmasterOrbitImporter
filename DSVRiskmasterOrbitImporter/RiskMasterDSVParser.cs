@@ -61,8 +61,8 @@ namespace runnerDotNet
             "TITLE",
             "TIN",
             "UPDATED_BY_USER",
-            "ADDED_BY_USER"
-            };
+            "ADDED_BY_USER",
+        };
 
         private static string[] _pdDSVColumnNames = new string[] {
             "PAYMENT_ID",
@@ -180,7 +180,9 @@ namespace runnerDotNet
                 pfDSVRowDictionary.SetArrayItem(_pfDSVColumnNames[rowNum], DSVRowList[rowNum]);
 
                 }
-
+            
+            pfDSVRowDictionary.SetArrayItem("ORIG_SUPPLIER_NUMBER", pfDSVRowDictionary.GetArrayItem("NPI_NUMBER"));
+            DSVRiskmasterOrbitImporter.Program.outputLines.AppendLine("ORIG_SUPPLIER_NUMBER :" + pfDSVRowDictionary.GetArrayItem("ORIG_SUPPLIER_NUMBER"));
             //pfDSVRowDictionary.Add
             return pfDSVRowDictionary;
             }
@@ -203,6 +205,7 @@ namespace runnerDotNet
                 pdDSVRowDictionary.SetArrayItem(_pdDSVColumnNames[rowNum], DSVRowList[rowNum]);
 
                 }
+            // After WCEDI is processed the original INVOICE_NUMBER is replaced with the identifier for WCEDI
 
             //pfDSVRowDictionary.Add
             return pdDSVRowDictionary;
