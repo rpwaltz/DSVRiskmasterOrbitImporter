@@ -9,8 +9,7 @@ namespace runnerDotNet
     class DB
         {
 
-         public static string connectionString = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=devux.server.knx)(PORT=1528))(CONNECT_DATA=(SERVICE_NAME=TSTEBS1)));User Id=import;Password=import";
-        // public static string connectionString = "Data Source=TSTEBS1.WORLD;User Id=import;Password=import";
+
         public static dynamic Query(dynamic strSQL)
             {
             Oracle.ManagedDataAccess.Client.OracleConnection connection = new Oracle.ManagedDataAccess.Client.OracleConnection();
