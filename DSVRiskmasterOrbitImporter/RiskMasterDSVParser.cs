@@ -182,7 +182,6 @@ namespace runnerDotNet
                 }
             
             pfDSVRowDictionary.SetArrayItem("ORIG_SUPPLIER_NUMBER", pfDSVRowDictionary.GetArrayItem("NPI_NUMBER"));
-            DSVRiskmasterOrbitImporter.Program.outputLines.AppendLine("ORIG_SUPPLIER_NUMBER :" + pfDSVRowDictionary.GetArrayItem("ORIG_SUPPLIER_NUMBER"));
             //pfDSVRowDictionary.Add
             return pfDSVRowDictionary;
             }

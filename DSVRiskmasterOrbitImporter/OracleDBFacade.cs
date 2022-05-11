@@ -232,7 +232,7 @@ namespace runnerDotNet
 
 
             insertStatement.AppendFormat("INSERT INTO {0} ({1}) VALUES ({2})", tableName, columnAndValues[0], columnAndValues[1]);
-            DSVRiskmasterOrbitImporter.Program.outputLines.AppendLine(insertStatement.ToString());
+
             DB.Exec(insertStatement.ToString());
 
             return insertResult;
