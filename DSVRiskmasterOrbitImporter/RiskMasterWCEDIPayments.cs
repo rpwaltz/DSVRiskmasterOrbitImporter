@@ -438,11 +438,11 @@ on pf.import_id = pd.import_id and pf.import_date = pd.import_date and pf.paymen
                             if (bill_id.IsString() && !string.IsNullOrEmpty(bill_id.ToString()))
                                 {
 
-                                XVar DSVRowXVar = record["DSV_ROW"];
-                                if (DSVRowXVar.IsString() && !DSVRowXVar.IsEmpty())
+                                string DSVRow = record["CSV_ROW"].ToString();
+                                if (!String.IsNullOrEmpty(DSVRow))
                                     {
                                     validRowCount++;
-                                    string DSVRow = DSVRowXVar.ToString();
+         
                                    // InfoStringBuilder.AppendLine(DSVRow);
                                     WcediDSVFile.Add(DSVRow);
                                     ValidWcediPageNameList.Add(bill_id.ToString());
@@ -469,7 +469,7 @@ on pf.import_id = pd.import_id and pf.import_date = pd.import_date and pf.paymen
                                     }
                                 else
                                     {
-                                    ErrorStringBuilder.AppendFormat("In PopulateWCEDIFile DSV_ROW not a string or is empty pd_id: {0} import_id {1} import_date {2} payment_id {3}{4}", record["PD_ID"], record["IMPORT_ID"], record["IMPORT_DATE"], record["PAYMENT_ID"], System.Environment.NewLine);
+                                    ErrorStringBuilder.AppendFormat("In PopulateWCEDIFile DSV_ROW is null or is empty pd_id: {0} import_id {1} import_date {2} payment_id {3}{4}{5}{6}", record["PD_ID"], record["IMPORT_ID"], record["IMPORT_DATE"], record["PAYMENT_ID"], System.Environment.NewLine, record["CSV_ROW"], System.Environment.NewLine);
                                     }
                                 }
                             else
