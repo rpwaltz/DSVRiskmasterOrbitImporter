@@ -9,7 +9,7 @@ namespace runnerDotNet
     class DB
         {
 
-
+        public static string connectionString = "";
         public static dynamic Query(dynamic strSQL)
             {
             Oracle.ManagedDataAccess.Client.OracleConnection connection = new Oracle.ManagedDataAccess.Client.OracleConnection();

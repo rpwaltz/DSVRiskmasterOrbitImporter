@@ -438,7 +438,7 @@ on pf.import_id = pd.import_id and pf.import_date = pd.import_date and pf.paymen
                             if (bill_id.IsString() && !string.IsNullOrEmpty(bill_id.ToString()))
                                 {
 
-                                string DSVRow = record["CSV_ROW"].ToString();
+                                string DSVRow = record["DSV_ROW"].ToString();
                                 if (!String.IsNullOrEmpty(DSVRow))
                                     {
                                     validRowCount++;
